@@ -6,12 +6,12 @@ Implementation of Novel Robust Band-Limited Signal Detection Approach Using Grap
 
 <div align=center> <img src="https://github.com/Joffrey-lc/Novel-Robust-Band-Limited-Signal-Detection-Approach-Using-Graph/blob/master/pic/Fig.1%E4%BF%A1%E5%8F%B7%E7%9A%84%E8%B0%83%E5%88%B6.jpg" width="50%"></div>
 
- <center><b><font size ='2'>Fig.1 The quantized power spectra QR(m) of BPSK signals with the FFT size M = 300. </font></b></center></font>
+ <div align=center> <b><font size ='2'>Fig.1 The quantized power spectra QR(m) of BPSK signals with the FFT size M = 300. </font></b></center></font>
 
  <div align=center><img src="https://github.com/Joffrey-lc/Novel-Robust-Band-Limited-Signal-Detection-Approach-Using-Graph/blob/master/pic/Fig.3.jpg" width="50%"></div>
  
-<center><b><font size ='2'>Fig.3 The averaged second largest eigenvalues $\bar{\lambda}_1$ of LR for AWGN with respect to different sample sizes K for three different numbers of quantization levels ϒ.</font></b></center></font>
+<div align=center> <b><font size ='2'>Fig.3 The averaged second largest eigenvalues $\bar{\lambda}_1$ of LR for AWGN with respect to different sample sizes K for three different numbers of quantization levels ϒ.</font></b></center></font>
 
  <div align=center><img src="https://github.com/Joffrey-lc/Novel-Robust-Band-Limited-Signal-Detection-Approach-Using-Graph/blob/master/pic/Fig.4.jpg" width="50%"></div>
  
-<center><b><font size ='2'>Fig.4 T The averaged second largest eigenvalues $\bar{\lambda}_1$ of LR versus different SNRs for K = M = 300 and three different numbers of quantization levels ϒ. </font></b></center></font>
+<div align=center> <b><font size ='2'>Fig.4 T The averaged second largest eigenvalues $\bar{\lambda}_1$ of LR versus different SNRs for K = M = 300 and three different numbers of quantization levels ϒ. </font></b></center></font>
